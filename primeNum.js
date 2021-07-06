@@ -25,4 +25,4 @@ flag = 0;
 };
 
 console.log(primeArray);
-document.getElementById("btn").innerText = primeArray
+document.getElementById("prime").innerText = primeArray
